@@ -1,4 +1,4 @@
-#Fromatted with Comma Sepration - May convert to CSV if necessary 
+#Formatted with Comma Sepration - May convert to CSV if necessary 
 import datetime
 import time 
 
